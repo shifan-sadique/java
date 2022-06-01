@@ -84,4 +84,4 @@ class teachermain
 			t[i].printer();
 		}	
 	}
-}
+} 
